@@ -25,12 +25,12 @@ var ojja=[
     }]
 var tajine=[
     {
-        ingredients=['1 lb chicken or lamb cut into small cubes about ¼ inch in size','1 cup potato peeled and chopped into ¼ inch cubes','Garlic 4-6 cloves',' ¼ cup oil or enough to fully cover the bottom of your pot','Water','1 tbs ras el hanout spice mixture','1 tsp tomato paste','¼ tsp black pepper','1 tsp salt','¼ tsp cayenne powder','1 tsp turmeric powder','One bunch parsley one bunch very finely chopped','1 cup frozen peas thawed','8-10 Eggs','⅓ cup dried bread crumbs','½ cup cheese'],
-        preparation=['Preheat your oven to 300 degrees F','Using a mortar and pestle, mash together your garlic and spice mix.In a small saucepan, add your oil,  chicken, garlic and spice mixture, tomato paste, black pepper, salt, cayenne pepper, and turmeric. Saute on about medium high for a few minutes. Add enough water to cover the chicken, reduce the heat to low, cover and let simmer until the liquid has reduced by about ½ and the chicken is fully cooked. Set it aside and allow to cool.Note: By the end of cooking time for the chicken, it is ok and should look like there is more chicken than sauce. The sauce will be quite oily and this is what you want, so do not drain the oil as it is essential to the final outcome of the dish. Also, this is the only point to taste for salt/seasoning since later the mixture will have raw eggs. The sauce should be salty enough but try to avoid adding too much as the parmesan cheese will add a good amount of saltiness as well. In in small frying pan, fry your potatoes until just very lightly golden brown on the edges, the centers should still be pretty white. Set aside to cool on a paper towel lined plate. In a large bowl, whisk together 8 whole eggs. Add your parsley, potatoes, peas, parmesan cheese, bread crumbs, and chicken mixture and gently fold all the ingredients together.Note: You are looking for a thick but still runny consistency. Similar to other quiches. If you find it’s too thick, feel free to whisk together one or two more eggs and add them to the mixture. If you find it is too runny, feel free to add in more bread crumbs just a spoonful at a time. With ours, we ended up adding two more eggs for a total of 10. Pour your mixture into a baking dish. Bake for 30-50 minutes or until the center has set and the edges are golden brown. Note: baking time will vary depending on your oven and the size of baking dish used. A square pan about 10x10 inches and 1-3 inches high is usually used to get the square tagine shape. A round pan, like the one we used is also fine but just keep in mind it will take longer to cook the smaller the dish you use. Remove from oven and allow to cool.  Cut into squares or any desired shape and serve.']\
+        ingredients:['1 lb chicken or lamb cut into small cubes about ¼ inch in size','1 cup potato peeled and chopped into ¼ inch cubes','Garlic 4-6 cloves',' ¼ cup oil or enough to fully cover the bottom of your pot','Water','1 tbs ras el hanout spice mixture','1 tsp tomato paste','¼ tsp black pepper','1 tsp salt','¼ tsp cayenne powder','1 tsp turmeric powder','One bunch parsley one bunch very finely chopped','1 cup frozen peas thawed','8-10 Eggs','⅓ cup dried bread crumbs','½ cup cheese'],
+        preparation:['Preheat your oven to 300 degrees F','Using a mortar and pestle, mash together your garlic and spice mix.In a small saucepan, add your oil,  chicken, garlic and spice mixture, tomato paste, black pepper, salt, cayenne pepper, and turmeric. Saute on about medium high for a few minutes. Add enough water to cover the chicken, reduce the heat to low, cover and let simmer until the liquid has reduced by about ½ and the chicken is fully cooked. Set it aside and allow to cool.Note: By the end of cooking time for the chicken, it is ok and should look like there is more chicken than sauce. The sauce will be quite oily and this is what you want, so do not drain the oil as it is essential to the final outcome of the dish. Also, this is the only point to taste for salt/seasoning since later the mixture will have raw eggs. The sauce should be salty enough but try to avoid adding too much as the parmesan cheese will add a good amount of saltiness as well. In in small frying pan, fry your potatoes until just very lightly golden brown on the edges, the centers should still be pretty white. Set aside to cool on a paper towel lined plate. In a large bowl, whisk together 8 whole eggs. Add your parsley, potatoes, peas, parmesan cheese, bread crumbs, and chicken mixture and gently fold all the ingredients together.Note: You are looking for a thick but still runny consistency. Similar to other quiches. If you find it’s too thick, feel free to whisk together one or two more eggs and add them to the mixture. If you find it is too runny, feel free to add in more bread crumbs just a spoonful at a time. With ours, we ended up adding two more eggs for a total of 10. Pour your mixture into a baking dish. Bake for 30-50 minutes or until the center has set and the edges are golden brown. Note: baking time will vary depending on your oven and the size of baking dish used. A square pan about 10x10 inches and 1-3 inches high is usually used to get the square tagine shape. A round pan, like the one we used is also fine but just keep in mind it will take longer to cook the smaller the dish you use. Remove from oven and allow to cool.  Cut into squares or any desired shape and serve.']
      }]
 var brik=[
     {
-    ingredients=['malsouka (or lumpia or egg roll wrappers)','eggs (one for each brik you wish to make)','Vegetable oil','1 bunch parsley chopped','one bunch green onions or 1 medium white onion chopped','1-2 tbs cheese','1-2 cans tuna drained well','pinch of salt and black pepper','Optional fillings:','1-2 large russet potatoes, boiled and mashed','Capers'],
+    ingredients:['malsouka (or lumpia or egg roll wrappers)','eggs (one for each brik you wish to make)','Vegetable oil','1 bunch parsley chopped','one bunch green onions or 1 medium white onion chopped','1-2 tbs cheese','1-2 cans tuna drained well','pinch of salt and black pepper','Optional fillings:','1-2 large russet potatoes, boiled and mashed','Capers'],
     preparation:['Separate and fold the malsouka (or lumpia wrappers) into triangle shapes. Since these are round, the easiest way is to fold in 4 edges to make somewhat of a square, then fold one corner of the square across to the opposite one to create a triangle.  Set these aside and keep covered well until ready to use so they do not dry out. In a bowl mix together all the other ingredients and set aside.Heat a frying pan with about a half inch of vegetable oil on just over medium heat and make sure its hot enough to fry before you start assembling your brik.In a plate, place your square wrapper, and line two of the edges with the parsley/tuna mixture making sure they connect. This will serve as a border to keep the egg in place. Sprinkle the center of the wrapper with a little salt and pepper and carefully crack your egg right on top of the salt and pepper. Fold over the top of the wrapper and using the plate, gently slide it into the oil. Use a spoon to gently press the brik closed and to spoon some of the hot oil onto the side not submerged into the oil. While it cooks on one side, you can make a second brik and cook them at the same time.Let the brik fry for about 2-3 minutes or until a nice golden brown before flipping to the other side and repeat.*Note: Tunisian brik is traditionally made with a runny egg. To achieve this, you will want to be careful how long you leave the brik in the frying oil, and it will take some trial and error. If you prefer a hard cooked egg, leave it to fry longer.Remove the brik and place on a paper towel lined plate and continue frying as many briks as you wish to make.When finished, place on a serving dish and garnish with lemon or lime wedges (to squeeze over) and serve immediately. Enjoy!']
     }]
 var omekHouria=[
@@ -62,50 +62,54 @@ var cornesGazelle=[
         ingredient:['For the dough:','1 1/2 cups of flour','1/3 cup butter, melted','1/4 cup orange blossom water','1/4 cup water','zest of half a lemon','For the filling:','2 cups almond flour or finely ground almonds','1/2 cup + 2 tbsp powdered sugar','zest of half a lemon','2 pinches or 1/4 tsp cinnamon','2-4 tbsp orange blossom water','For the outside coating:','2-3 tbsp orange blossom water or simple syrup','1 cup powdered sugar'],
         preparation:["Preheat oven to 350 degrees F.Line cookie sheet with parchment paper.In a mixing bowl, add the flour, melted butter, lemon zest, water, and orange blossom water. Mix these together with a whisk, wooden spoon, kitchen aid with dough attachment, or clean hands. Kneed the mixture until you get a soft smooth dough. Roll into a ball and set aside in the bowl to rest for 20-30 minutes while you make the filling.In another bowl, add the almond flour, powdered sugar, cinnamon, lemon zest, and orange blossom water. Mix together to form a ball.To shape the cookies, roll out the dough out into a nice thin layer, but not too thin (about 1/8th of an inch). Using a circle cookie cutter or a cup, cut out evenly sized circles.Take about a tablespoon of the almond filling, roll into a ball then roll into a log shape. Place it at one end of the dough circle and roll it closed, completely encasing the filling. Using your hands and fingers, gently shape the roll into a crescent, or horn shape, keeping the middle full and the ends thinner. Trim any excess as needed and place on your cookie sheet about once inch apart.Bake for 30-40 minutes.Once the cookies are baked, remove them from the baking sheet, dip them in orange blossom water (or simple syrup) and place on a cooling rack.Sift 1 cup of powdered sugar in a wide bowl.Roll each cookie in the powdered sugar until fully covered, place on your serving dish, and enjoy!"]
     }]
-var appetizers =[tajine,brik,omekHouria,slataMechouia]
-var mainCourse=[mloukhia,couscous,lablebi,ojja]
-var drinks=[mintTea,citronade]
-var deserts=[baklawa,cornesGazelle]
+    
+var recipeName = ['tajine', 'brik', 'omekHouria', 'slataMechouia', 'mloukhia', 'couscous', 'lablebi', 'ojja', 'mintTea', 'citronade', 'baklawa', 'cornesGazelle'];
 
-const recipeName = location.hash.substring(1)
+function openRecipe(recipe) {
+  window.open(`RecepiesHTML.html#${recipe}`, '_blank');
+}
+
+var urlParameters = new URLSearchParams(window.location.search);
+var recipe = urlParameters.get('recipeName');
 
 function showRecipe(recipeName) {
+  console.log('hii')
     switch (recipeName) {
       case 'tajine':
-        showTajineRecipe();
+        showRecipe(tajine);
         break;
       case 'brik':
-        showBrikRecipe();
+        showRecipe(brik);
         break;
       case 'omekHouria':
-        showOmekHouriaRecipe();
+        showRecipe(omekHouria);
         break;
       case 'slataMechouia':
-        showSlataMechouiaRecipe();
+        showRecipe(slataMechouia);
         break;
       case 'mloukhia':
-        showMloukhiaRecipe();
+        showRecipe(mloukhia);
         break;
       case 'couscous':
-        showCouscousRecipe();
+        showRecipe(couscous);
         break;
       case 'lablebi':
-        showLablebiRecipe();
+        showRecipe(lablebi);
         break;
       case 'ojja':
-        showOjjaRecipe();
+        showRecipe(ojja);
         break;
       case 'mintTea':
-        showMintTeaRecipe();
+        showRecipe(mintTea);
         break;
       case 'citronade':
-        showCitronadeRecipe();
+        showRecipe(citronade);
         break;
       case 'baklawa':
-        showBaklavaRecipe();
+        showRecipe(baklawa);
         break;
       case 'cornesGazelle':
-        showCornesGazelleRecipe();
+        showRecipe(cornesGazelle);
         break;
       default:
         console.error('Unknown recipe name:', recipeName);
