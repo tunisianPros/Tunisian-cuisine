@@ -30,6 +30,7 @@
     storeUserData(email, password);
     alert('Thank you');
   });
+  
 
 
   loginButton.addEventListener('click', function () {
