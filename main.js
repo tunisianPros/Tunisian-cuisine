@@ -39,8 +39,11 @@
     console.log("Login password:", password);
     var userData = getUserData();
     if (userData && email === userData.email && password === userData.password) {
+        console.log('heyyy here the next page')
       alert('Welcome');
+      window.location.href = 'RecepiesHTML.html'
     } else {
+       
       alert('make sure u have an account before logging in ');
     }
   });
