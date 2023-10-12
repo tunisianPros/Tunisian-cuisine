@@ -1,63 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refreshed" content="3">
-    <meta name="Rahma" content="Recipe ">
-    <meta name="description" content="tunisian food Recipe">
-    <link rel="stylesheet" href="CuisineJS.js">
+  <meta charset="UTF-8">
+  <meta http-equiv="refreshed" content="3">
+  <meta name="Rahma" content="Recipe ">
+  <meta name="description" content="tunisian food Recipe">
+  <link rel="stylesheet" href="CuisineJS.js">
 
-    <title>Bon Appétit Space</title>
+  <title>Bon Appétit Space</title>
 </head>
 <body id="insideWindows">
+
     <div class="container">
+        <div id="appetizers">
 
-        <div id="appetizers">Tajine</div>
-        <img src="" alt="tajine">
-        <video src="https://youtu.be/ZK3oGudPg88"></video>
-        <div id="appetizers">brik</div>
-        <img src="" alt="brik">
-        <video src="https://youtu.be/OV9EgaE80O8"></video>
-        <div id="appetizers">Omek Houria </div>
-        <img src="" alt="omekHouria">
-        <video src="https://youtu.be/sQ2aO7geQxU"></video>
-        <div id="appetizers">Slata Mechouia</div>
-        <img src="" alt="slataMechouia">
-        <video src="https://youtu.be/nfxvigX_W20"></video>
- 
-        <div id="mainCourse">Mloukhia</div>
-        <img src="" alt="mloukhia">
-        <video src="https://www.youtube.com/watch?v=0_ciX5lPnVY"></video>
-        <div id="mainCourse">couscous</div>
-        <img src="" alt="couscous">
-        <video src="https://youtu.be/_cK7o7zvWWo"></video>
-        <div id="mainCourse">Lablebi</div>
-        <img src="https://youtu.be/wb8FK8g3SRk" alt="lablebi">
-        <video src=""></video>
-        <div id="mainCourse">Ojja</div>
-        <img src="" alt="ojja">
-        <video src="https://youtu.be/3uJITAtnzUw"></video>
+            <h2 id="title">Tajine</h2>
+                <img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\tajine.jpeg" alt="tajine">
+                <button class="button" onclick="openRecipe('tajine')">Click</button>
+                <video src="https://youtu.be/ZK3oGudPg88"></video>
+              </div>
 
+              <h2 id="title">Brik</h2>
+              <img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\brik.jpeg" alt="brik">
+              <button class="button" onclick="openRecipe('brik')">Click</button>
+              <video src="https://youtu.be/OV9EgaE80O8"></video>
+            </div>
 
-        <div id="drinks">Citronade</div>
-        <img src="" alt="citronnade">
-        <video src="https://youtu.be/NE0SXp5BMgA"></video>
-        <div id="drinks">Mint Tea</div>
-        <img src="" alt="mintTea">
-        <video src="https://youtu.be/qxi9WwTlKlM"></video>
+            <h2 id="title">Omek Houria</h2>
+            <img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\omekHouria1.png" alt="omekHouria">
+            <button class="button" onclick="openRecipe('omekHouria')">Click</button>
+            <video src="https://youtu.be/sQ2aO7geQxU"></video>
+          </div>
 
-        <div id="deserts">Baklawa</div>
-        <img src="" alt="baklawa">
-        <video src="https://youtu.be/lOCmVDW-6fw"></video>
-        <div id="deserts">Cornes de gazelle</div>
-        <img src="" alt="cornesGazelle">
-        <video src="https://youtu.be/KVnfEBh-rUk"></video>
-
-        <div class="controls">
-            <button id="startButton" class="startB">Start the game</button>
-            <button id="nextButton" class="nextB">Next Question</button>
-
+          <h2 id="title">Slata Mechouia</h2>
+          <img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\slataMechouia.jpeg" alt="slataMechouia">
+          <button class="button" onclick="openRecipe('slataMechouia')">Click</button>
+          <video src="https://youtu.be/nfxvigX_W20"></video>
         </div>
+
+        <h2 id="title">Mloukhia</h2>
+        <img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\mloukhia2.jpeg.png" alt="mloukhia">
+        <button class="button" onclick="openRecipe('mloukhia')">Click</button>
+        <video src="https://www.youtube.com/watch?v=0_ciX5lPnVY"></video>
+      </div>
+
+      <h2 id="title">Couscous</h2>
+      <img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\Couscous2.jpeg" alt="couscous">
+      <button class="button" onclick="openRecipe('couscous')">Click</button>
+      <video src="https://youtu.be/_cK7o7zvWWo"></video>
+    </div>
+
+    <h2 id="title">Lablebi</h2>
+    <img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\Lablebi.jpeg" alt="lablebi">
+    <button class="button" onclick="openRecipe('lableb')">Click</button>
+    <video src="https://youtu.be/wb8FK8g3SRk"></video>
+  </div>
+
+  <h2 id="title">Ojja</h2>
+  <img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\Ojja.jpeg" alt="ojja">
+  <button class="button" onclick="openRecipe('lableb')">Click</button>
+  <video src="https://youtu.be/3uJITAtnzUw"></video>
+</div>
+
+<h2 id="title">Citronade</h2>
+<img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\citronade.jpeg" alt="citronade">
+<button class="button" onclick="openRecipe('citronade')">Click</button>
+<video src="https://youtu.be/NE0SXp5BMgA"></video>
+</div>
+
+<h2 id="title">Mint Tea</h2>
+<img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\mintTea.jpeg" alt="citronade">
+<button class="button" onclick="openRecipe('citronade')">Click</button>
+<video src="https://youtu.be/qxi9WwTlKlM"></video>
+</div>
+
+<h2 id="title">Baklawa</h2>
+<img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\baklawa.jpeg" alt="baklawa">
+<button class="button" onclick="openRecipe('baklawa')">Click</button>
+<video src="https://youtu.be/lOCmVDW-6fw"></video>
+</div>
+
+<h2 id="title">Cornes de gazelle</h2>
+<img src="C:\Users\nader\Dropbox\My PC (LAPTOP-T53C6DOU)\Desktop\final\Tunisian-cuisine\photo\cornesGazelle.jpeg" alt="cornesGazelle">
+<button class="button" onclick="openRecipe('cornesGazelle')">Click</button>
+<video src="https://youtu.be/KVnfEBh-rUk"></video>
+</div>
     </div>
 <script
 src="https://code.jquery.com/jquery-3.7.1.js"

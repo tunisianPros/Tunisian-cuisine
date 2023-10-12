@@ -1,8 +1,7 @@
 
-function showRecepie(level) {
-var url = `RecepiesHTML.html?container=${container}`
-window.open(url, '_blank')
-}
+function openRecipe(recipe) {
+    window.open(`RecepiesHTML.html#${recipe}`, '_blank');
+  }
 
 var mloukhia =[
         {
@@ -68,28 +67,48 @@ var mainCourse=[mloukhia,couscous,lablebi,ojja]
 var drinks=[mintTea,citronade]
 var deserts=[baklawa,cornesGazelle]
 
+const recipeName = location.hash.substring(1)
 
-//to be confirmed tomorrow with main html file:
-var urlParameters = new URLSearchParams(window.location.search)
-var showRecepie = urlParameters.get('container')
-
-var showRecepie
-
-switch (container) {
-    case 'appetizers':
-        container = appetizers;
-        break
-    case 'mainCourse':
-        container = mainCourse;
-        break
-    case 'drinks':
-        container = drinks;
-        break
-    case 'deserts':
-        container = deserts;
-         break  
-    default:
-}
-
-
+function showRecipe(recipeName) {
+    switch (recipeName) {
+      case 'tajine':
+        showTajineRecipe();
+        break;
+      case 'brik':
+        showBrikRecipe();
+        break;
+      case 'omekHouria':
+        showOmekHouriaRecipe();
+        break;
+      case 'slataMechouia':
+        showSlataMechouiaRecipe();
+        break;
+      case 'mloukhia':
+        showMloukhiaRecipe();
+        break;
+      case 'couscous':
+        showCouscousRecipe();
+        break;
+      case 'lablebi':
+        showLablebiRecipe();
+        break;
+      case 'ojja':
+        showOjjaRecipe();
+        break;
+      case 'mintTea':
+        showMintTeaRecipe();
+        break;
+      case 'citronade':
+        showCitronadeRecipe();
+        break;
+      case 'baklawa':
+        showBaklavaRecipe();
+        break;
+      case 'cornesGazelle':
+        showCornesGazelleRecipe();
+        break;
+      default:
+        console.error('Unknown recipe name:', recipeName);
+    }
+  }
 
