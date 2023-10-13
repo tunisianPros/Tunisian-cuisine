@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+
+ 
+}
+
+.Recipe {
+  width: calc(25% - 20px);
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+.Recipe img {
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #3781d4;
+    border-radius: 6px;
+    outline: none;
+    transition: 0.3s;
+    border: 2px solid transparent;
+  }
+  .button:hover,
+  .button:focus {
+    background-color: #c2c7c7;
+    border-color: #13296e;
+  }
+  
