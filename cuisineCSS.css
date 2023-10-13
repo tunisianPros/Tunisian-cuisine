@@ -1,31 +1,52 @@
-/* Container needed to position the button. Adjust the width as needed */
-.container {
-    position: relative;
-    width: 50%;
-  }
-  
-  /* Make the image responsive */
-  .container img {
-    width: 60%;
-    height: auto;
-  }
-  
-  /* Style the button and place it in the middle of the container/image */
-  .container .button {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-color: #555;
-    color: white;
-    font-size: 16px;
-    padding: 12px 24px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-  }
-  
-  .container .button:hover {
-    background-color: black;
-  }
+.button-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #3781d4;
+  border-radius: 6px;
+  outline: none;
+  transition: 0.3s;
+  border: 2px solid transparent;
+}
+.button-btn:hover,
+.button-btn:focus {
+  background-color: #c2c7c7;
+  border-color: #13296e;
+}
+
+title{
+  font-family:"minonpro","serif";
+  font-size: 48px;
+  line-height: 1,5em;
+}
+
+title{
+  font-family:"minion pro","serif";
+  font-size: 28px;
+  line-height: 1,5em;
+}
+
+h2{
+  font-family:'Trocchi', serif;
+  font-size: 28px;
+  line-height: 1,5em;
+}
+img {
+  flex: 30%;
+  padding: 5px;
+  width: 100%;
+  display: flex;
+}
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+}
+#Recepie{
+ font-family: 'Trocchi', serif;
+ font-size: 45px;
+ font-weight: normal; 
+ line-height: 48px; 
+ margin: 0;
+}
